@@ -1,0 +1,12 @@
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\bin\Debug\net6.0\CasgemMicroservice.Shared.deps.json
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\bin\Debug\net6.0\CasgemMicroservice.Shared.dll
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\bin\Debug\net6.0\CasgemMicroservice.Shared.pdb
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\obj\Debug\net6.0\CasgemMicroservice.Shared.csproj.AssemblyReference.cache
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\obj\Debug\net6.0\CasgemMicroservice.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\obj\Debug\net6.0\CasgemMicroservice.Shared.AssemblyInfoInputs.cache
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\obj\Debug\net6.0\CasgemMicroservice.Shared.AssemblyInfo.cs
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\obj\Debug\net6.0\CasgemMicroservice.Shared.csproj.CoreCompileInputs.cache
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\obj\Debug\net6.0\CasgemMicroservice.Shared.dll
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\obj\Debug\net6.0\refint\CasgemMicroservice.Shared.dll
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\obj\Debug\net6.0\CasgemMicroservice.Shared.pdb
+C:\Users\AYDEMİR\Source\Repos\CasgemMicroservice\Shared\CasgemMicroservice.Shared\obj\Debug\net6.0\ref\CasgemMicroservice.Shared.dll

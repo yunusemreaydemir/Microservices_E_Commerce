@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "puC9olZY/2j3mb5xnqvAefv90V9Ta+xaXg/U/CmKByI=",
+  "Source": "CasgemMicroservice.PhotoStock",
+  "BasePath": "_content/CasgemMicroservice.PhotoStock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CasgemMicroservice.PhotoStock\\wwwroot",
+      "Source": "CasgemMicroservice.PhotoStock",
+      "ContentRoot": "C:\\Users\\AYDEMİR\\Source\\Repos\\CasgemMicroservice\\Services\\PhotoStock\\CasgemMicroservice.PhotoStock\\wwwroot\\",
+      "BasePath": "_content/CasgemMicroservice.PhotoStock",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\AYDEMİR\\Source\\Repos\\CasgemMicroservice\\Services\\PhotoStock\\CasgemMicroservice.PhotoStock\\wwwroot\\photos\\pexels-john-nail-1448136.jpg",
+      "SourceId": "CasgemMicroservice.PhotoStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AYDEMİR\\Source\\Repos\\CasgemMicroservice\\Services\\PhotoStock\\CasgemMicroservice.PhotoStock\\wwwroot\\",
+      "BasePath": "_content/CasgemMicroservice.PhotoStock",
+      "RelativePath": "photos/pexels-john-nail-1448136.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\pexels-john-nail-1448136.jpg"
+    }
+  ]
+}

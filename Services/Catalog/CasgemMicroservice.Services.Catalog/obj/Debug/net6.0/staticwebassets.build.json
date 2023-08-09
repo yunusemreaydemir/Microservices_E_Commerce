@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0uCAh1RUKT10vYD0HI4yyK14Vo6/o9ZTTU7Vg3F9MHQ=",
+  "Source": "CasgemMicroservice.Services.Catalog",
+  "BasePath": "_content/CasgemMicroservice.Services.Catalog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

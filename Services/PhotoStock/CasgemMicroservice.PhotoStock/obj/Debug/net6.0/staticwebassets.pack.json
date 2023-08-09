@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Source\\Repos\\CasgemMicroservice\\Services\\PhotoStock\\CasgemMicroservice.PhotoStock\\wwwroot\\photos\\pexels-john-nail-1448136.jpg",
+      "PackagePath": "staticwebassets\\photos\\pexels-john-nail-1448136.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CasgemMicroservice.PhotoStock.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CasgemMicroservice.PhotoStock.props",
+      "PackagePath": "build\\CasgemMicroservice.PhotoStock.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CasgemMicroservice.PhotoStock.props",
+      "PackagePath": "buildMultiTargeting\\CasgemMicroservice.PhotoStock.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CasgemMicroservice.PhotoStock.props",
+      "PackagePath": "buildTransitive\\CasgemMicroservice.PhotoStock.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
