@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pdghWpf5rt75zvC2qJd/kuG9B0zLPUcJJ3wmcEBL/t3Kergar7sK4jGNmkdv3y2f53fjXyGOO/ZPS9i6gn9J3Q==",
+  "dgSpecHash": "t2jUCriUXga4ITUJVhBtf4PwTUTsTtqLm7XJ4wPv2cst7oXx4OPwV3gcrt8cGxLIKFm9RDkapNUgfaKJkeTjpA==",
   "success": true,
   "projectFilePath": "C:\\Users\\AYDEMİR\\Source\\Repos\\CasgemMicroservice\\Services\\Catalog\\CasgemMicroservice.Services.Catalog\\CasgemMicroservice.Services.Catalog.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,8 @@
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.20\\microsoft.aspnetcore.authentication.jwtbearer.6.0.20.nupkg.sha512",
+    "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.0.0\\microsoft.aspnetcore.http.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.0.0\\microsoft.aspnetcore.http.features.2.0.0.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
@@ -40,6 +42,7 @@
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\AYDEMİR\\.nuget\\packages\\system.text.encodings.web\\4.4.0\\system.text.encodings.web.4.4.0.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
   ],
   "logs": []

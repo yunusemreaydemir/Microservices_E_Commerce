@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasgemMicroservice.Identity
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasgemMicroservice.PhotoStock", "Services\PhotoStock\CasgemMicroservice.PhotoStock\CasgemMicroservice.PhotoStock.csproj", "{EA1FA1E5-7541-4159-8570-6448EABAFD43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasgemMicroservice.Services.Basket", "Services\Basket\CasgemMicroservice.Services.Basket\CasgemMicroservice.Services.Basket.csproj", "{95A13C55-F437-40AB-9A01-284C2516D727}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{EA1FA1E5-7541-4159-8570-6448EABAFD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA1FA1E5-7541-4159-8570-6448EABAFD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA1FA1E5-7541-4159-8570-6448EABAFD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A13C55-F437-40AB-9A01-284C2516D727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A13C55-F437-40AB-9A01-284C2516D727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A13C55-F437-40AB-9A01-284C2516D727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A13C55-F437-40AB-9A01-284C2516D727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,6 +85,7 @@ Global
 		{834EE8E5-2C7C-4366-90DC-6F0470E187B0} = {B1E6C706-E197-417E-8F8F-DF723687A74E}
 		{50E078AF-93C7-45D9-93F2-75B596E6341C} = {C9225FC0-B351-40DA-8A73-FFD4D7F59219}
 		{EA1FA1E5-7541-4159-8570-6448EABAFD43} = {90A60D8B-056D-4115-B3ED-1B6972AD2507}
+		{95A13C55-F437-40AB-9A01-284C2516D727} = {63FB95F3-027A-44C2-AB6E-647E1B85795B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45EE03F0-9A14-4FAE-AB84-003B2E5B27AE}

@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "egqqkfjRnF8BGvySPNYPq9W/EqxOrWiMgYwLr+4eEHsVq/oFge90XtmjzNrL9iGjpANMdVs64zqOP7PFvI2XTw==",
+  "dgSpecHash": "ZDZIHiw7TR28EcnzHt2HrXXPH6+cTkvWiX4ddgZmyhUatoBh/QSKun7iT9gpta0K/MAw35RsnVhGqqhC2roJ4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\AYDEMİR\\Source\\Repos\\CasgemMicroservice\\Shared\\CasgemMicroservice.Shared\\CasgemMicroservice.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.0.0\\microsoft.aspnetcore.http.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.0.0\\microsoft.aspnetcore.http.features.2.0.0.nupkg.sha512",
+    "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\AYDEMİR\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\AYDEMİR\\.nuget\\packages\\system.text.encodings.web\\4.4.0\\system.text.encodings.web.4.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
