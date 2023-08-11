@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dJsxU+W/jy2zLISgyjvRHIrDmkSSsvWpZDuBdbAChl0=",
+  "Source": "CasgemMicroservice.Services.Order.Presentation.Api",
+  "BasePath": "_content/CasgemMicroservice.Services.Order.Presentation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

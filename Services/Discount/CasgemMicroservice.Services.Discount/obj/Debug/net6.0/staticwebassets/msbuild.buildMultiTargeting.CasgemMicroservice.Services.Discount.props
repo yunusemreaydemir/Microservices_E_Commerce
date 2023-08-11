@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CasgemMicroservice.Services.Discount.props" />
+</Project>

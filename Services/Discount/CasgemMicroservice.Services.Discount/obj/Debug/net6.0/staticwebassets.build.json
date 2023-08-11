@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BI4VzvT48piHLLvo+g9ue+RPtNS1MbpBc0JM/9TT3QE=",
+  "Source": "CasgemMicroservice.Services.Discount",
+  "BasePath": "_content/CasgemMicroservice.Services.Discount",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

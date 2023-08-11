@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CasgemMicroservice.Services.Order.Presentation.Api.props" />
+</Project>
