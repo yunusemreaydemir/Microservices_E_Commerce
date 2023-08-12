@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kQWiC0YfPg7aCCBrOvZTvZKDCB+BHLsX5SVGyMyaWJbeaeEv5UOuEiIixtOgDDtfCHnf4EtI2AJNKnnWAiXP9g==",
+  "dgSpecHash": "5/V+n8F+4oIUH/l8Laay/y/nJnV6fDcUS40SGbN8d1GXVCpOyxmmckm5BO8Frh4RewSGrmHb5gqok81jHA7uKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\AYDEMİR\\Source\\Repos\\CasgemMicroservice\\Services\\Order\\Core\\CasgemMicroservice.Services.Order.Core.Application\\CasgemMicroservice.Services.Order.Core.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\AYDEMİR\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\AYDEMİR\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\AYDEMİR\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
